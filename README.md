@@ -1,1 +1,1 @@
-# -Human-activity-Recognition
+# Human-activity-Recognition
